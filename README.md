@@ -1,4 +1,4 @@
-### Instructions to use
+### Instructions to use: updating to get commit
 - Clone the repo
 
     ```git clone https://github.com/thechetantalwar/java-demo-app```
